@@ -8,8 +8,8 @@ Hello! This is a page for developers to help get an idea of what we do and where
 
 Our code is split across 2 organizations:
 
-- https://github.com/openstax
-- https://github.com/Connexions
+- [@openstax](https://github.com/openstax)
+- [@Connexions](https://github.com/Connexions)
 
 Repositories usually have instructions for starting up and we frequently create Issues in the various repositories.
 
