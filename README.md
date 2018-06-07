@@ -1,4 +1,4 @@
-# [Openstax.org](https://openstax.org) Developers
+# [openstax.org](https://openstax.org) Developers
 
 
 Hello! This is a page for developers to help get an idea of what we do and where things are. We create and host many openly-licensed textbooks that people can use and adapt for free.
@@ -9,7 +9,7 @@ Hello! This is a page for developers to help get an idea of what we do and where
 Our code is split across 2 organizations:
 
 - [@openstax](https://github.com/openstax)
-- [@Connexions](https://github.com/Connexions)
+- [@connexions](https://github.com/connexions)
 
 Repositories usually have instructions for starting up and we frequently create Issues in the various repositories.
 
